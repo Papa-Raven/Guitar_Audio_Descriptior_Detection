@@ -1,0 +1,4121 @@
+{
+  "cols": 1,
+  "data": {
+    "0": [
+      "harsh"
+    ],
+    "1": [
+      "harsh"
+    ],
+    "10": [
+      "harsh"
+    ],
+    "100": [
+      "harsh"
+    ],
+    "1000": [
+      "finger_regular"
+    ],
+    "1001": [
+      "finger_regular"
+    ],
+    "1002": [
+      "finger_regular"
+    ],
+    "1003": [
+      "finger_regular"
+    ],
+    "1004": [
+      "finger_regular"
+    ],
+    "1005": [
+      "finger_regular"
+    ],
+    "1006": [
+      "finger_regular"
+    ],
+    "1007": [
+      "finger_regular"
+    ],
+    "1008": [
+      "finger_regular"
+    ],
+    "1009": [
+      "finger_regular"
+    ],
+    "101": [
+      "harsh"
+    ],
+    "1010": [
+      "finger_regular"
+    ],
+    "1011": [
+      "finger_regular"
+    ],
+    "1012": [
+      "finger_regular"
+    ],
+    "1013": [
+      "finger_regular"
+    ],
+    "1014": [
+      "finger_regular"
+    ],
+    "1015": [
+      "finger_regular"
+    ],
+    "1016": [
+      "finger_regular"
+    ],
+    "1017": [
+      "finger_regular"
+    ],
+    "1018": [
+      "finger_regular"
+    ],
+    "1019": [
+      "finger_regular"
+    ],
+    "102": [
+      "harsh"
+    ],
+    "1020": [
+      "finger_regular"
+    ],
+    "1021": [
+      "finger_regular"
+    ],
+    "1022": [
+      "finger_regular"
+    ],
+    "1023": [
+      "finger_regular"
+    ],
+    "1024": [
+      "finger_regular"
+    ],
+    "1025": [
+      "finger_regular"
+    ],
+    "1026": [
+      "finger_regular"
+    ],
+    "1027": [
+      "finger_regular"
+    ],
+    "1028": [
+      "finger_regular"
+    ],
+    "1029": [
+      "finger_regular"
+    ],
+    "103": [
+      "harsh"
+    ],
+    "1030": [
+      "finger_regular"
+    ],
+    "1031": [
+      "finger_regular"
+    ],
+    "1032": [
+      "finger_regular"
+    ],
+    "1033": [
+      "finger_regular"
+    ],
+    "1034": [
+      "finger_regular"
+    ],
+    "1035": [
+      "finger_regular"
+    ],
+    "1036": [
+      "finger_regular"
+    ],
+    "1037": [
+      "finger_regular"
+    ],
+    "1038": [
+      "finger_regular"
+    ],
+    "1039": [
+      "finger_regular"
+    ],
+    "104": [
+      "harsh"
+    ],
+    "1040": [
+      "finger_regular"
+    ],
+    "1041": [
+      "finger_regular"
+    ],
+    "1042": [
+      "finger_regular"
+    ],
+    "1043": [
+      "finger_regular"
+    ],
+    "1044": [
+      "finger_regular"
+    ],
+    "1045": [
+      "finger_regular"
+    ],
+    "1046": [
+      "finger_regular"
+    ],
+    "1047": [
+      "finger_regular"
+    ],
+    "1048": [
+      "finger_regular"
+    ],
+    "1049": [
+      "finger_regular"
+    ],
+    "105": [
+      "harsh"
+    ],
+    "1050": [
+      "finger_regular"
+    ],
+    "1051": [
+      "finger_regular"
+    ],
+    "1052": [
+      "finger_regular"
+    ],
+    "1053": [
+      "finger_regular"
+    ],
+    "1054": [
+      "finger_regular"
+    ],
+    "1055": [
+      "finger_regular"
+    ],
+    "1056": [
+      "finger_regular"
+    ],
+    "1057": [
+      "finger_regular"
+    ],
+    "1058": [
+      "finger_regular"
+    ],
+    "1059": [
+      "finger_regular"
+    ],
+    "106": [
+      "harsh"
+    ],
+    "1060": [
+      "finger_regular"
+    ],
+    "1061": [
+      "finger_regular"
+    ],
+    "1062": [
+      "finger_regular"
+    ],
+    "1063": [
+      "finger_regular"
+    ],
+    "1064": [
+      "finger_regular"
+    ],
+    "1065": [
+      "finger_regular"
+    ],
+    "1066": [
+      "finger_regular"
+    ],
+    "1067": [
+      "finger_regular"
+    ],
+    "1068": [
+      "finger_regular"
+    ],
+    "1069": [
+      "finger_regular"
+    ],
+    "107": [
+      "harsh"
+    ],
+    "1070": [
+      "finger_regular"
+    ],
+    "1071": [
+      "finger_regular"
+    ],
+    "1072": [
+      "finger_regular"
+    ],
+    "1073": [
+      "finger_regular"
+    ],
+    "1074": [
+      "finger_regular"
+    ],
+    "1075": [
+      "finger_regular"
+    ],
+    "1076": [
+      "finger_regular"
+    ],
+    "1077": [
+      "finger_regular"
+    ],
+    "1078": [
+      "finger_regular"
+    ],
+    "1079": [
+      "finger_regular"
+    ],
+    "108": [
+      "harsh"
+    ],
+    "1080": [
+      "finger_regular"
+    ],
+    "1081": [
+      "finger_regular"
+    ],
+    "1082": [
+      "finger_regular"
+    ],
+    "1083": [
+      "finger_regular"
+    ],
+    "1084": [
+      "finger_regular"
+    ],
+    "1085": [
+      "finger_regular"
+    ],
+    "1086": [
+      "finger_regular"
+    ],
+    "1087": [
+      "finger_regular"
+    ],
+    "1088": [
+      "finger_regular"
+    ],
+    "1089": [
+      "finger_regular"
+    ],
+    "109": [
+      "harsh"
+    ],
+    "1090": [
+      "finger_regular"
+    ],
+    "1091": [
+      "finger_regular"
+    ],
+    "1092": [
+      "finger_regular"
+    ],
+    "1093": [
+      "finger_regular"
+    ],
+    "1094": [
+      "finger_regular"
+    ],
+    "1095": [
+      "finger_regular"
+    ],
+    "1096": [
+      "finger_regular"
+    ],
+    "1097": [
+      "finger_regular"
+    ],
+    "1098": [
+      "finger_regular"
+    ],
+    "1099": [
+      "finger_regular"
+    ],
+    "11": [
+      "harsh"
+    ],
+    "110": [
+      "harsh"
+    ],
+    "1100": [
+      "finger_regular"
+    ],
+    "1101": [
+      "finger_regular"
+    ],
+    "1102": [
+      "finger_regular"
+    ],
+    "1103": [
+      "finger_regular"
+    ],
+    "1104": [
+      "finger_regular"
+    ],
+    "1105": [
+      "finger_regular"
+    ],
+    "1106": [
+      "finger_regular"
+    ],
+    "1107": [
+      "finger_regular"
+    ],
+    "1108": [
+      "finger_regular"
+    ],
+    "1109": [
+      "finger_regular"
+    ],
+    "111": [
+      "harsh"
+    ],
+    "1110": [
+      "finger_regular"
+    ],
+    "1111": [
+      "finger_regular"
+    ],
+    "1112": [
+      "finger_regular"
+    ],
+    "1113": [
+      "finger_regular"
+    ],
+    "1114": [
+      "finger_regular"
+    ],
+    "1115": [
+      "finger_regular"
+    ],
+    "1116": [
+      "finger_regular"
+    ],
+    "1117": [
+      "finger_regular"
+    ],
+    "1118": [
+      "finger_regular"
+    ],
+    "1119": [
+      "finger_regular"
+    ],
+    "112": [
+      "harsh"
+    ],
+    "1120": [
+      "finger_regular"
+    ],
+    "1121": [
+      "finger_regular"
+    ],
+    "1122": [
+      "finger_regular"
+    ],
+    "1123": [
+      "finger_regular"
+    ],
+    "1124": [
+      "finger_regular"
+    ],
+    "1125": [
+      "finger_regular"
+    ],
+    "1126": [
+      "finger_regular"
+    ],
+    "1127": [
+      "finger_regular"
+    ],
+    "1128": [
+      "finger_regular"
+    ],
+    "1129": [
+      "finger_regular"
+    ],
+    "113": [
+      "harsh"
+    ],
+    "1130": [
+      "finger_regular"
+    ],
+    "1131": [
+      "finger_regular"
+    ],
+    "1132": [
+      "finger_regular"
+    ],
+    "1133": [
+      "finger_regular"
+    ],
+    "1134": [
+      "finger_regular"
+    ],
+    "1135": [
+      "finger_regular"
+    ],
+    "1136": [
+      "finger_regular"
+    ],
+    "1137": [
+      "finger_regular"
+    ],
+    "1138": [
+      "finger_regular"
+    ],
+    "1139": [
+      "finger_regular"
+    ],
+    "114": [
+      "harsh"
+    ],
+    "1140": [
+      "finger_regular"
+    ],
+    "1141": [
+      "finger_regular"
+    ],
+    "1142": [
+      "finger_regular"
+    ],
+    "1143": [
+      "finger_regular"
+    ],
+    "1144": [
+      "finger_regular"
+    ],
+    "1145": [
+      "finger_regular"
+    ],
+    "1146": [
+      "finger_regular"
+    ],
+    "1147": [
+      "finger_regular"
+    ],
+    "1148": [
+      "finger_regular"
+    ],
+    "1149": [
+      "finger_regular"
+    ],
+    "115": [
+      "harsh"
+    ],
+    "1150": [
+      "finger_regular"
+    ],
+    "1151": [
+      "finger_regular"
+    ],
+    "1152": [
+      "finger_regular"
+    ],
+    "1153": [
+      "finger_regular"
+    ],
+    "1154": [
+      "finger_regular"
+    ],
+    "1155": [
+      "finger_regular"
+    ],
+    "1156": [
+      "finger_regular"
+    ],
+    "1157": [
+      "palm_mute"
+    ],
+    "1158": [
+      "palm_mute"
+    ],
+    "1159": [
+      "palm_mute"
+    ],
+    "116": [
+      "harsh"
+    ],
+    "1160": [
+      "palm_mute"
+    ],
+    "1161": [
+      "palm_mute"
+    ],
+    "1162": [
+      "palm_mute"
+    ],
+    "1163": [
+      "palm_mute"
+    ],
+    "1164": [
+      "palm_mute"
+    ],
+    "1165": [
+      "palm_mute"
+    ],
+    "1166": [
+      "palm_mute"
+    ],
+    "1167": [
+      "palm_mute"
+    ],
+    "1168": [
+      "palm_mute"
+    ],
+    "1169": [
+      "palm_mute"
+    ],
+    "117": [
+      "harsh"
+    ],
+    "1170": [
+      "palm_mute"
+    ],
+    "1171": [
+      "palm_mute"
+    ],
+    "1172": [
+      "palm_mute"
+    ],
+    "1173": [
+      "palm_mute"
+    ],
+    "1174": [
+      "palm_mute"
+    ],
+    "1175": [
+      "palm_mute"
+    ],
+    "1176": [
+      "palm_mute"
+    ],
+    "1177": [
+      "palm_mute"
+    ],
+    "1178": [
+      "palm_mute"
+    ],
+    "1179": [
+      "palm_mute"
+    ],
+    "118": [
+      "harsh"
+    ],
+    "1180": [
+      "palm_mute"
+    ],
+    "1181": [
+      "palm_mute"
+    ],
+    "1182": [
+      "palm_mute"
+    ],
+    "1183": [
+      "palm_mute"
+    ],
+    "1184": [
+      "palm_mute"
+    ],
+    "1185": [
+      "palm_mute"
+    ],
+    "1186": [
+      "palm_mute"
+    ],
+    "1187": [
+      "palm_mute"
+    ],
+    "1188": [
+      "palm_mute"
+    ],
+    "1189": [
+      "palm_mute"
+    ],
+    "119": [
+      "harsh"
+    ],
+    "1190": [
+      "palm_mute"
+    ],
+    "1191": [
+      "palm_mute"
+    ],
+    "1192": [
+      "palm_mute"
+    ],
+    "1193": [
+      "palm_mute"
+    ],
+    "1194": [
+      "palm_mute"
+    ],
+    "1195": [
+      "palm_mute"
+    ],
+    "1196": [
+      "palm_mute"
+    ],
+    "1197": [
+      "palm_mute"
+    ],
+    "1198": [
+      "palm_mute"
+    ],
+    "1199": [
+      "palm_mute"
+    ],
+    "12": [
+      "harsh"
+    ],
+    "120": [
+      "harsh"
+    ],
+    "1200": [
+      "palm_mute"
+    ],
+    "1201": [
+      "palm_mute"
+    ],
+    "1202": [
+      "palm_mute"
+    ],
+    "1203": [
+      "palm_mute"
+    ],
+    "1204": [
+      "palm_mute"
+    ],
+    "1205": [
+      "palm_mute"
+    ],
+    "1206": [
+      "palm_mute"
+    ],
+    "1207": [
+      "palm_mute"
+    ],
+    "1208": [
+      "palm_mute"
+    ],
+    "1209": [
+      "palm_mute"
+    ],
+    "121": [
+      "harsh"
+    ],
+    "1210": [
+      "palm_mute"
+    ],
+    "1211": [
+      "palm_mute"
+    ],
+    "1212": [
+      "palm_mute"
+    ],
+    "1213": [
+      "palm_mute"
+    ],
+    "1214": [
+      "palm_mute"
+    ],
+    "1215": [
+      "palm_mute"
+    ],
+    "1216": [
+      "palm_mute"
+    ],
+    "1217": [
+      "palm_mute"
+    ],
+    "1218": [
+      "palm_mute"
+    ],
+    "1219": [
+      "palm_mute"
+    ],
+    "122": [
+      "harsh"
+    ],
+    "1220": [
+      "palm_mute"
+    ],
+    "1221": [
+      "palm_mute"
+    ],
+    "1222": [
+      "palm_mute"
+    ],
+    "1223": [
+      "palm_mute"
+    ],
+    "1224": [
+      "palm_mute"
+    ],
+    "1225": [
+      "palm_mute"
+    ],
+    "1226": [
+      "palm_mute"
+    ],
+    "1227": [
+      "palm_mute"
+    ],
+    "1228": [
+      "palm_mute"
+    ],
+    "1229": [
+      "palm_mute"
+    ],
+    "123": [
+      "harsh"
+    ],
+    "1230": [
+      "palm_mute"
+    ],
+    "1231": [
+      "palm_mute"
+    ],
+    "1232": [
+      "palm_mute"
+    ],
+    "1233": [
+      "palm_mute"
+    ],
+    "1234": [
+      "palm_mute"
+    ],
+    "1235": [
+      "palm_mute"
+    ],
+    "1236": [
+      "palm_mute"
+    ],
+    "1237": [
+      "palm_mute"
+    ],
+    "1238": [
+      "palm_mute"
+    ],
+    "1239": [
+      "palm_mute"
+    ],
+    "124": [
+      "harsh"
+    ],
+    "1240": [
+      "palm_mute"
+    ],
+    "1241": [
+      "palm_mute"
+    ],
+    "1242": [
+      "palm_mute"
+    ],
+    "1243": [
+      "palm_mute"
+    ],
+    "1244": [
+      "palm_mute"
+    ],
+    "1245": [
+      "palm_mute"
+    ],
+    "1246": [
+      "palm_mute"
+    ],
+    "1247": [
+      "palm_mute"
+    ],
+    "1248": [
+      "palm_mute"
+    ],
+    "1249": [
+      "palm_mute"
+    ],
+    "125": [
+      "harsh"
+    ],
+    "1250": [
+      "palm_mute"
+    ],
+    "1251": [
+      "palm_mute"
+    ],
+    "1252": [
+      "palm_mute"
+    ],
+    "1253": [
+      "palm_mute"
+    ],
+    "1254": [
+      "palm_mute"
+    ],
+    "1255": [
+      "palm_mute"
+    ],
+    "1256": [
+      "palm_mute"
+    ],
+    "1257": [
+      "palm_mute"
+    ],
+    "1258": [
+      "palm_mute"
+    ],
+    "1259": [
+      "palm_mute"
+    ],
+    "126": [
+      "harsh"
+    ],
+    "1260": [
+      "palm_mute"
+    ],
+    "1261": [
+      "palm_mute"
+    ],
+    "1262": [
+      "palm_mute"
+    ],
+    "1263": [
+      "palm_mute"
+    ],
+    "1264": [
+      "palm_mute"
+    ],
+    "1265": [
+      "palm_mute"
+    ],
+    "1266": [
+      "palm_mute"
+    ],
+    "1267": [
+      "palm_mute"
+    ],
+    "1268": [
+      "palm_mute"
+    ],
+    "1269": [
+      "palm_mute"
+    ],
+    "127": [
+      "harsh"
+    ],
+    "1270": [
+      "palm_mute"
+    ],
+    "1271": [
+      "palm_mute"
+    ],
+    "1272": [
+      "palm_mute"
+    ],
+    "1273": [
+      "palm_mute"
+    ],
+    "1274": [
+      "palm_mute"
+    ],
+    "1275": [
+      "palm_mute"
+    ],
+    "1276": [
+      "palm_mute"
+    ],
+    "1277": [
+      "palm_mute"
+    ],
+    "1278": [
+      "palm_mute"
+    ],
+    "1279": [
+      "palm_mute"
+    ],
+    "128": [
+      "harsh"
+    ],
+    "1280": [
+      "palm_mute"
+    ],
+    "1281": [
+      "palm_mute"
+    ],
+    "1282": [
+      "palm_mute"
+    ],
+    "1283": [
+      "palm_mute"
+    ],
+    "1284": [
+      "palm_mute"
+    ],
+    "1285": [
+      "palm_mute"
+    ],
+    "1286": [
+      "palm_mute"
+    ],
+    "1287": [
+      "palm_mute"
+    ],
+    "1288": [
+      "palm_mute"
+    ],
+    "1289": [
+      "palm_mute"
+    ],
+    "129": [
+      "harsh"
+    ],
+    "1290": [
+      "palm_mute"
+    ],
+    "1291": [
+      "palm_mute"
+    ],
+    "1292": [
+      "palm_mute"
+    ],
+    "1293": [
+      "palm_mute"
+    ],
+    "1294": [
+      "palm_mute"
+    ],
+    "1295": [
+      "palm_mute"
+    ],
+    "1296": [
+      "palm_mute"
+    ],
+    "1297": [
+      "palm_mute"
+    ],
+    "1298": [
+      "palm_mute"
+    ],
+    "1299": [
+      "palm_mute"
+    ],
+    "13": [
+      "harsh"
+    ],
+    "130": [
+      "harsh"
+    ],
+    "1300": [
+      "palm_mute"
+    ],
+    "1301": [
+      "palm_mute"
+    ],
+    "1302": [
+      "palm_mute"
+    ],
+    "1303": [
+      "palm_mute"
+    ],
+    "1304": [
+      "palm_mute"
+    ],
+    "1305": [
+      "palm_mute"
+    ],
+    "1306": [
+      "palm_mute"
+    ],
+    "1307": [
+      "palm_mute"
+    ],
+    "1308": [
+      "palm_mute"
+    ],
+    "1309": [
+      "palm_mute"
+    ],
+    "131": [
+      "harsh"
+    ],
+    "1310": [
+      "palm_mute"
+    ],
+    "1311": [
+      "palm_mute"
+    ],
+    "1312": [
+      "palm_mute"
+    ],
+    "1313": [
+      "palm_mute"
+    ],
+    "1314": [
+      "palm_mute"
+    ],
+    "1315": [
+      "palm_mute"
+    ],
+    "1316": [
+      "palm_mute"
+    ],
+    "1317": [
+      "palm_mute"
+    ],
+    "1318": [
+      "palm_mute"
+    ],
+    "1319": [
+      "palm_mute"
+    ],
+    "132": [
+      "harsh"
+    ],
+    "1320": [
+      "palm_mute"
+    ],
+    "1321": [
+      "palm_mute"
+    ],
+    "1322": [
+      "palm_mute"
+    ],
+    "1323": [
+      "palm_mute"
+    ],
+    "1324": [
+      "palm_mute"
+    ],
+    "1325": [
+      "palm_mute"
+    ],
+    "1326": [
+      "palm_mute"
+    ],
+    "1327": [
+      "palm_mute"
+    ],
+    "1328": [
+      "palm_mute"
+    ],
+    "1329": [
+      "palm_mute"
+    ],
+    "133": [
+      "harsh"
+    ],
+    "1330": [
+      "palm_mute"
+    ],
+    "1331": [
+      "palm_mute"
+    ],
+    "1332": [
+      "palm_mute"
+    ],
+    "1333": [
+      "palm_mute"
+    ],
+    "1334": [
+      "palm_mute"
+    ],
+    "1335": [
+      "palm_mute"
+    ],
+    "1336": [
+      "palm_mute"
+    ],
+    "1337": [
+      "palm_mute"
+    ],
+    "1338": [
+      "palm_mute"
+    ],
+    "1339": [
+      "palm_mute"
+    ],
+    "134": [
+      "harsh"
+    ],
+    "1340": [
+      "palm_mute"
+    ],
+    "1341": [
+      "palm_mute"
+    ],
+    "1342": [
+      "palm_mute"
+    ],
+    "1343": [
+      "palm_mute"
+    ],
+    "1344": [
+      "palm_mute"
+    ],
+    "1345": [
+      "palm_mute"
+    ],
+    "1346": [
+      "palm_mute"
+    ],
+    "1347": [
+      "palm_mute"
+    ],
+    "1348": [
+      "palm_mute"
+    ],
+    "1349": [
+      "palm_mute"
+    ],
+    "135": [
+      "harsh"
+    ],
+    "1350": [
+      "palm_mute"
+    ],
+    "1351": [
+      "palm_mute"
+    ],
+    "1352": [
+      "palm_mute"
+    ],
+    "1353": [
+      "palm_mute"
+    ],
+    "1354": [
+      "palm_mute"
+    ],
+    "1355": [
+      "palm_mute"
+    ],
+    "1356": [
+      "palm_mute"
+    ],
+    "1357": [
+      "palm_mute"
+    ],
+    "1358": [
+      "palm_mute"
+    ],
+    "1359": [
+      "palm_mute"
+    ],
+    "136": [
+      "harsh"
+    ],
+    "1360": [
+      "palm_mute"
+    ],
+    "1361": [
+      "palm_mute"
+    ],
+    "1362": [
+      "palm_mute"
+    ],
+    "1363": [
+      "palm_mute"
+    ],
+    "1364": [
+      "palm_mute"
+    ],
+    "1365": [
+      "palm_mute"
+    ],
+    "1366": [
+      "palm_mute"
+    ],
+    "1367": [
+      "palm_mute"
+    ],
+    "1368": [
+      "palm_mute"
+    ],
+    "1369": [
+      "palm_mute"
+    ],
+    "137": [
+      "harsh"
+    ],
+    "1370": [
+      "palm_mute"
+    ],
+    "1371": [
+      "palm_mute"
+    ],
+    "138": [
+      "harsh"
+    ],
+    "139": [
+      "harsh"
+    ],
+    "14": [
+      "harsh"
+    ],
+    "140": [
+      "harsh"
+    ],
+    "141": [
+      "harsh"
+    ],
+    "142": [
+      "harsh"
+    ],
+    "143": [
+      "harsh"
+    ],
+    "144": [
+      "harsh"
+    ],
+    "145": [
+      "harsh"
+    ],
+    "146": [
+      "harsh"
+    ],
+    "147": [
+      "harsh"
+    ],
+    "148": [
+      "harsh"
+    ],
+    "149": [
+      "harsh"
+    ],
+    "15": [
+      "harsh"
+    ],
+    "150": [
+      "harsh"
+    ],
+    "151": [
+      "harsh"
+    ],
+    "152": [
+      "harsh"
+    ],
+    "153": [
+      "harsh"
+    ],
+    "154": [
+      "harsh"
+    ],
+    "155": [
+      "harsh"
+    ],
+    "156": [
+      "harsh"
+    ],
+    "157": [
+      "harsh"
+    ],
+    "158": [
+      "harsh"
+    ],
+    "159": [
+      "harsh"
+    ],
+    "16": [
+      "harsh"
+    ],
+    "160": [
+      "harsh"
+    ],
+    "161": [
+      "harsh"
+    ],
+    "162": [
+      "harsh"
+    ],
+    "163": [
+      "harsh"
+    ],
+    "164": [
+      "harsh"
+    ],
+    "165": [
+      "harsh"
+    ],
+    "166": [
+      "harsh"
+    ],
+    "167": [
+      "harsh"
+    ],
+    "168": [
+      "harsh"
+    ],
+    "169": [
+      "harsh"
+    ],
+    "17": [
+      "harsh"
+    ],
+    "170": [
+      "harsh"
+    ],
+    "171": [
+      "harsh"
+    ],
+    "172": [
+      "harsh"
+    ],
+    "173": [
+      "harsh"
+    ],
+    "174": [
+      "harsh"
+    ],
+    "175": [
+      "harsh"
+    ],
+    "176": [
+      "harsh"
+    ],
+    "177": [
+      "harsh"
+    ],
+    "178": [
+      "harsh"
+    ],
+    "179": [
+      "harsh"
+    ],
+    "18": [
+      "harsh"
+    ],
+    "180": [
+      "harsh"
+    ],
+    "181": [
+      "harsh"
+    ],
+    "182": [
+      "harsh"
+    ],
+    "183": [
+      "harsh"
+    ],
+    "184": [
+      "harsh"
+    ],
+    "185": [
+      "harsh"
+    ],
+    "186": [
+      "harsh"
+    ],
+    "187": [
+      "harsh"
+    ],
+    "188": [
+      "harsh"
+    ],
+    "189": [
+      "harsh"
+    ],
+    "19": [
+      "harsh"
+    ],
+    "190": [
+      "harsh"
+    ],
+    "191": [
+      "harsh"
+    ],
+    "192": [
+      "harsh"
+    ],
+    "193": [
+      "harsh"
+    ],
+    "194": [
+      "harsh"
+    ],
+    "195": [
+      "harsh"
+    ],
+    "196": [
+      "harsh"
+    ],
+    "197": [
+      "harsh"
+    ],
+    "198": [
+      "harsh"
+    ],
+    "199": [
+      "harsh"
+    ],
+    "2": [
+      "harsh"
+    ],
+    "20": [
+      "harsh"
+    ],
+    "200": [
+      "harsh"
+    ],
+    "201": [
+      "harsh"
+    ],
+    "202": [
+      "harsh"
+    ],
+    "203": [
+      "harsh"
+    ],
+    "204": [
+      "harsh"
+    ],
+    "205": [
+      "harsh"
+    ],
+    "206": [
+      "harsh"
+    ],
+    "207": [
+      "harsh"
+    ],
+    "208": [
+      "harsh"
+    ],
+    "209": [
+      "harsh"
+    ],
+    "21": [
+      "harsh"
+    ],
+    "210": [
+      "harsh"
+    ],
+    "211": [
+      "harsh"
+    ],
+    "212": [
+      "harsh"
+    ],
+    "213": [
+      "harsh"
+    ],
+    "214": [
+      "harsh"
+    ],
+    "215": [
+      "harsh"
+    ],
+    "216": [
+      "harsh"
+    ],
+    "217": [
+      "harsh"
+    ],
+    "218": [
+      "harsh"
+    ],
+    "219": [
+      "harsh"
+    ],
+    "22": [
+      "harsh"
+    ],
+    "220": [
+      "harsh"
+    ],
+    "221": [
+      "harsh"
+    ],
+    "222": [
+      "harsh"
+    ],
+    "223": [
+      "harsh"
+    ],
+    "224": [
+      "harsh"
+    ],
+    "225": [
+      "harsh"
+    ],
+    "226": [
+      "harsh"
+    ],
+    "227": [
+      "harsh"
+    ],
+    "228": [
+      "harsh"
+    ],
+    "229": [
+      "harsh"
+    ],
+    "23": [
+      "harsh"
+    ],
+    "230": [
+      "harsh"
+    ],
+    "231": [
+      "harsh"
+    ],
+    "232": [
+      "harsh"
+    ],
+    "233": [
+      "harsh"
+    ],
+    "234": [
+      "harsh"
+    ],
+    "235": [
+      "harsh"
+    ],
+    "236": [
+      "harsh"
+    ],
+    "237": [
+      "harsh"
+    ],
+    "238": [
+      "harsh"
+    ],
+    "239": [
+      "harsh"
+    ],
+    "24": [
+      "harsh"
+    ],
+    "240": [
+      "harsh"
+    ],
+    "241": [
+      "harsh"
+    ],
+    "242": [
+      "harsh"
+    ],
+    "243": [
+      "harsh"
+    ],
+    "244": [
+      "harsh"
+    ],
+    "245": [
+      "harsh"
+    ],
+    "246": [
+      "harsh"
+    ],
+    "247": [
+      "harsh"
+    ],
+    "248": [
+      "harsh"
+    ],
+    "249": [
+      "harsh"
+    ],
+    "25": [
+      "harsh"
+    ],
+    "250": [
+      "harsh"
+    ],
+    "251": [
+      "harsh"
+    ],
+    "252": [
+      "harsh"
+    ],
+    "253": [
+      "harsh"
+    ],
+    "254": [
+      "harsh"
+    ],
+    "255": [
+      "harsh"
+    ],
+    "256": [
+      "harsh"
+    ],
+    "257": [
+      "normal"
+    ],
+    "258": [
+      "normal"
+    ],
+    "259": [
+      "normal"
+    ],
+    "26": [
+      "harsh"
+    ],
+    "260": [
+      "normal"
+    ],
+    "261": [
+      "normal"
+    ],
+    "262": [
+      "normal"
+    ],
+    "263": [
+      "normal"
+    ],
+    "264": [
+      "normal"
+    ],
+    "265": [
+      "normal"
+    ],
+    "266": [
+      "normal"
+    ],
+    "267": [
+      "normal"
+    ],
+    "268": [
+      "normal"
+    ],
+    "269": [
+      "normal"
+    ],
+    "27": [
+      "harsh"
+    ],
+    "270": [
+      "normal"
+    ],
+    "271": [
+      "normal"
+    ],
+    "272": [
+      "normal"
+    ],
+    "273": [
+      "normal"
+    ],
+    "274": [
+      "normal"
+    ],
+    "275": [
+      "normal"
+    ],
+    "276": [
+      "normal"
+    ],
+    "277": [
+      "normal"
+    ],
+    "278": [
+      "normal"
+    ],
+    "279": [
+      "normal"
+    ],
+    "28": [
+      "harsh"
+    ],
+    "280": [
+      "normal"
+    ],
+    "281": [
+      "normal"
+    ],
+    "282": [
+      "normal"
+    ],
+    "283": [
+      "normal"
+    ],
+    "284": [
+      "normal"
+    ],
+    "285": [
+      "normal"
+    ],
+    "286": [
+      "normal"
+    ],
+    "287": [
+      "normal"
+    ],
+    "288": [
+      "normal"
+    ],
+    "289": [
+      "normal"
+    ],
+    "29": [
+      "harsh"
+    ],
+    "290": [
+      "normal"
+    ],
+    "291": [
+      "normal"
+    ],
+    "292": [
+      "normal"
+    ],
+    "293": [
+      "normal"
+    ],
+    "294": [
+      "normal"
+    ],
+    "295": [
+      "normal"
+    ],
+    "296": [
+      "normal"
+    ],
+    "297": [
+      "normal"
+    ],
+    "298": [
+      "normal"
+    ],
+    "299": [
+      "normal"
+    ],
+    "3": [
+      "harsh"
+    ],
+    "30": [
+      "harsh"
+    ],
+    "300": [
+      "normal"
+    ],
+    "301": [
+      "normal"
+    ],
+    "302": [
+      "normal"
+    ],
+    "303": [
+      "normal"
+    ],
+    "304": [
+      "normal"
+    ],
+    "305": [
+      "normal"
+    ],
+    "306": [
+      "normal"
+    ],
+    "307": [
+      "normal"
+    ],
+    "308": [
+      "normal"
+    ],
+    "309": [
+      "normal"
+    ],
+    "31": [
+      "harsh"
+    ],
+    "310": [
+      "normal"
+    ],
+    "311": [
+      "normal"
+    ],
+    "312": [
+      "normal"
+    ],
+    "313": [
+      "normal"
+    ],
+    "314": [
+      "normal"
+    ],
+    "315": [
+      "normal"
+    ],
+    "316": [
+      "normal"
+    ],
+    "317": [
+      "normal"
+    ],
+    "318": [
+      "normal"
+    ],
+    "319": [
+      "normal"
+    ],
+    "32": [
+      "harsh"
+    ],
+    "320": [
+      "normal"
+    ],
+    "321": [
+      "normal"
+    ],
+    "322": [
+      "normal"
+    ],
+    "323": [
+      "normal"
+    ],
+    "324": [
+      "normal"
+    ],
+    "325": [
+      "normal"
+    ],
+    "326": [
+      "normal"
+    ],
+    "327": [
+      "normal"
+    ],
+    "328": [
+      "normal"
+    ],
+    "329": [
+      "normal"
+    ],
+    "33": [
+      "harsh"
+    ],
+    "330": [
+      "normal"
+    ],
+    "331": [
+      "normal"
+    ],
+    "332": [
+      "normal"
+    ],
+    "333": [
+      "normal"
+    ],
+    "334": [
+      "normal"
+    ],
+    "335": [
+      "normal"
+    ],
+    "336": [
+      "normal"
+    ],
+    "337": [
+      "normal"
+    ],
+    "338": [
+      "normal"
+    ],
+    "339": [
+      "normal"
+    ],
+    "34": [
+      "harsh"
+    ],
+    "340": [
+      "normal"
+    ],
+    "341": [
+      "normal"
+    ],
+    "342": [
+      "normal"
+    ],
+    "343": [
+      "normal"
+    ],
+    "344": [
+      "normal"
+    ],
+    "345": [
+      "normal"
+    ],
+    "346": [
+      "normal"
+    ],
+    "347": [
+      "normal"
+    ],
+    "348": [
+      "normal"
+    ],
+    "349": [
+      "normal"
+    ],
+    "35": [
+      "harsh"
+    ],
+    "350": [
+      "normal"
+    ],
+    "351": [
+      "normal"
+    ],
+    "352": [
+      "normal"
+    ],
+    "353": [
+      "normal"
+    ],
+    "354": [
+      "normal"
+    ],
+    "355": [
+      "normal"
+    ],
+    "356": [
+      "normal"
+    ],
+    "357": [
+      "normal"
+    ],
+    "358": [
+      "normal"
+    ],
+    "359": [
+      "normal"
+    ],
+    "36": [
+      "harsh"
+    ],
+    "360": [
+      "normal"
+    ],
+    "361": [
+      "normal"
+    ],
+    "362": [
+      "normal"
+    ],
+    "363": [
+      "normal"
+    ],
+    "364": [
+      "normal"
+    ],
+    "365": [
+      "normal"
+    ],
+    "366": [
+      "normal"
+    ],
+    "367": [
+      "normal"
+    ],
+    "368": [
+      "normal"
+    ],
+    "369": [
+      "normal"
+    ],
+    "37": [
+      "harsh"
+    ],
+    "370": [
+      "normal"
+    ],
+    "371": [
+      "normal"
+    ],
+    "372": [
+      "normal"
+    ],
+    "373": [
+      "normal"
+    ],
+    "374": [
+      "normal"
+    ],
+    "375": [
+      "normal"
+    ],
+    "376": [
+      "normal"
+    ],
+    "377": [
+      "normal"
+    ],
+    "378": [
+      "normal"
+    ],
+    "379": [
+      "normal"
+    ],
+    "38": [
+      "harsh"
+    ],
+    "380": [
+      "normal"
+    ],
+    "381": [
+      "normal"
+    ],
+    "382": [
+      "normal"
+    ],
+    "383": [
+      "normal"
+    ],
+    "384": [
+      "normal"
+    ],
+    "385": [
+      "normal"
+    ],
+    "386": [
+      "normal"
+    ],
+    "387": [
+      "normal"
+    ],
+    "388": [
+      "normal"
+    ],
+    "389": [
+      "normal"
+    ],
+    "39": [
+      "harsh"
+    ],
+    "390": [
+      "normal"
+    ],
+    "391": [
+      "normal"
+    ],
+    "392": [
+      "normal"
+    ],
+    "393": [
+      "normal"
+    ],
+    "394": [
+      "normal"
+    ],
+    "395": [
+      "normal"
+    ],
+    "396": [
+      "normal"
+    ],
+    "397": [
+      "normal"
+    ],
+    "398": [
+      "normal"
+    ],
+    "399": [
+      "normal"
+    ],
+    "4": [
+      "harsh"
+    ],
+    "40": [
+      "harsh"
+    ],
+    "400": [
+      "normal"
+    ],
+    "401": [
+      "normal"
+    ],
+    "402": [
+      "normal"
+    ],
+    "403": [
+      "normal"
+    ],
+    "404": [
+      "normal"
+    ],
+    "405": [
+      "normal"
+    ],
+    "406": [
+      "normal"
+    ],
+    "407": [
+      "normal"
+    ],
+    "408": [
+      "normal"
+    ],
+    "409": [
+      "normal"
+    ],
+    "41": [
+      "harsh"
+    ],
+    "410": [
+      "normal"
+    ],
+    "411": [
+      "normal"
+    ],
+    "412": [
+      "normal"
+    ],
+    "413": [
+      "normal"
+    ],
+    "414": [
+      "normal"
+    ],
+    "415": [
+      "normal"
+    ],
+    "416": [
+      "normal"
+    ],
+    "417": [
+      "normal"
+    ],
+    "418": [
+      "normal"
+    ],
+    "419": [
+      "normal"
+    ],
+    "42": [
+      "harsh"
+    ],
+    "420": [
+      "normal"
+    ],
+    "421": [
+      "normal"
+    ],
+    "422": [
+      "normal"
+    ],
+    "423": [
+      "normal"
+    ],
+    "424": [
+      "normal"
+    ],
+    "425": [
+      "normal"
+    ],
+    "426": [
+      "normal"
+    ],
+    "427": [
+      "normal"
+    ],
+    "428": [
+      "normal"
+    ],
+    "429": [
+      "normal"
+    ],
+    "43": [
+      "harsh"
+    ],
+    "430": [
+      "normal"
+    ],
+    "431": [
+      "normal"
+    ],
+    "432": [
+      "normal"
+    ],
+    "433": [
+      "normal"
+    ],
+    "434": [
+      "normal"
+    ],
+    "435": [
+      "normal"
+    ],
+    "436": [
+      "normal"
+    ],
+    "437": [
+      "normal"
+    ],
+    "438": [
+      "normal"
+    ],
+    "439": [
+      "normal"
+    ],
+    "44": [
+      "harsh"
+    ],
+    "440": [
+      "normal"
+    ],
+    "441": [
+      "normal"
+    ],
+    "442": [
+      "normal"
+    ],
+    "443": [
+      "normal"
+    ],
+    "444": [
+      "normal"
+    ],
+    "445": [
+      "normal"
+    ],
+    "446": [
+      "normal"
+    ],
+    "447": [
+      "normal"
+    ],
+    "448": [
+      "normal"
+    ],
+    "449": [
+      "normal"
+    ],
+    "45": [
+      "harsh"
+    ],
+    "450": [
+      "normal"
+    ],
+    "451": [
+      "normal"
+    ],
+    "452": [
+      "normal"
+    ],
+    "453": [
+      "normal"
+    ],
+    "454": [
+      "normal"
+    ],
+    "455": [
+      "normal"
+    ],
+    "456": [
+      "normal"
+    ],
+    "457": [
+      "normal"
+    ],
+    "458": [
+      "normal"
+    ],
+    "459": [
+      "normal"
+    ],
+    "46": [
+      "harsh"
+    ],
+    "460": [
+      "normal"
+    ],
+    "461": [
+      "normal"
+    ],
+    "462": [
+      "normal"
+    ],
+    "463": [
+      "normal"
+    ],
+    "464": [
+      "normal"
+    ],
+    "465": [
+      "normal"
+    ],
+    "466": [
+      "normal"
+    ],
+    "467": [
+      "normal"
+    ],
+    "468": [
+      "normal"
+    ],
+    "469": [
+      "normal"
+    ],
+    "47": [
+      "harsh"
+    ],
+    "470": [
+      "normal"
+    ],
+    "471": [
+      "normal"
+    ],
+    "472": [
+      "normal"
+    ],
+    "473": [
+      "normal"
+    ],
+    "474": [
+      "normal"
+    ],
+    "475": [
+      "normal"
+    ],
+    "476": [
+      "normal"
+    ],
+    "477": [
+      "normal"
+    ],
+    "478": [
+      "normal"
+    ],
+    "479": [
+      "normal"
+    ],
+    "48": [
+      "harsh"
+    ],
+    "480": [
+      "normal"
+    ],
+    "481": [
+      "normal"
+    ],
+    "482": [
+      "normal"
+    ],
+    "483": [
+      "normal"
+    ],
+    "484": [
+      "normal"
+    ],
+    "485": [
+      "normal"
+    ],
+    "486": [
+      "normal"
+    ],
+    "487": [
+      "normal"
+    ],
+    "488": [
+      "normal"
+    ],
+    "489": [
+      "normal"
+    ],
+    "49": [
+      "harsh"
+    ],
+    "490": [
+      "normal"
+    ],
+    "491": [
+      "normal"
+    ],
+    "492": [
+      "normal"
+    ],
+    "493": [
+      "normal"
+    ],
+    "494": [
+      "normal"
+    ],
+    "495": [
+      "normal"
+    ],
+    "496": [
+      "normal"
+    ],
+    "497": [
+      "normal"
+    ],
+    "498": [
+      "normal"
+    ],
+    "499": [
+      "normal"
+    ],
+    "5": [
+      "harsh"
+    ],
+    "50": [
+      "harsh"
+    ],
+    "500": [
+      "normal"
+    ],
+    "501": [
+      "normal"
+    ],
+    "502": [
+      "normal"
+    ],
+    "503": [
+      "normal"
+    ],
+    "504": [
+      "normal"
+    ],
+    "505": [
+      "normal"
+    ],
+    "506": [
+      "normal"
+    ],
+    "507": [
+      "normal"
+    ],
+    "508": [
+      "normal"
+    ],
+    "509": [
+      "normal"
+    ],
+    "51": [
+      "harsh"
+    ],
+    "510": [
+      "normal"
+    ],
+    "511": [
+      "normal"
+    ],
+    "512": [
+      "normal"
+    ],
+    "513": [
+      "normal"
+    ],
+    "514": [
+      "normal"
+    ],
+    "515": [
+      "normal"
+    ],
+    "516": [
+      "normal"
+    ],
+    "517": [
+      "normal"
+    ],
+    "518": [
+      "normal"
+    ],
+    "519": [
+      "normal"
+    ],
+    "52": [
+      "harsh"
+    ],
+    "520": [
+      "normal"
+    ],
+    "521": [
+      "normal"
+    ],
+    "522": [
+      "normal"
+    ],
+    "523": [
+      "normal"
+    ],
+    "524": [
+      "normal"
+    ],
+    "525": [
+      "normal"
+    ],
+    "526": [
+      "normal"
+    ],
+    "527": [
+      "normal"
+    ],
+    "528": [
+      "normal"
+    ],
+    "529": [
+      "normal"
+    ],
+    "53": [
+      "harsh"
+    ],
+    "530": [
+      "normal"
+    ],
+    "531": [
+      "normal"
+    ],
+    "532": [
+      "normal"
+    ],
+    "533": [
+      "normal"
+    ],
+    "534": [
+      "normal"
+    ],
+    "535": [
+      "normal"
+    ],
+    "536": [
+      "normal"
+    ],
+    "537": [
+      "normal"
+    ],
+    "538": [
+      "normal"
+    ],
+    "539": [
+      "normal"
+    ],
+    "54": [
+      "harsh"
+    ],
+    "540": [
+      "normal"
+    ],
+    "541": [
+      "normal"
+    ],
+    "542": [
+      "normal"
+    ],
+    "543": [
+      "normal"
+    ],
+    "544": [
+      "normal"
+    ],
+    "545": [
+      "normal"
+    ],
+    "546": [
+      "normal"
+    ],
+    "547": [
+      "normal"
+    ],
+    "548": [
+      "normal"
+    ],
+    "549": [
+      "normal"
+    ],
+    "55": [
+      "harsh"
+    ],
+    "550": [
+      "normal"
+    ],
+    "551": [
+      "normal"
+    ],
+    "552": [
+      "normal"
+    ],
+    "553": [
+      "normal"
+    ],
+    "554": [
+      "normal"
+    ],
+    "555": [
+      "normal"
+    ],
+    "556": [
+      "normal"
+    ],
+    "557": [
+      "normal"
+    ],
+    "558": [
+      "normal"
+    ],
+    "559": [
+      "normal"
+    ],
+    "56": [
+      "harsh"
+    ],
+    "560": [
+      "normal"
+    ],
+    "561": [
+      "normal"
+    ],
+    "562": [
+      "normal"
+    ],
+    "563": [
+      "normal"
+    ],
+    "564": [
+      "normal"
+    ],
+    "565": [
+      "normal"
+    ],
+    "566": [
+      "normal"
+    ],
+    "567": [
+      "smooth"
+    ],
+    "568": [
+      "smooth"
+    ],
+    "569": [
+      "smooth"
+    ],
+    "57": [
+      "harsh"
+    ],
+    "570": [
+      "smooth"
+    ],
+    "571": [
+      "smooth"
+    ],
+    "572": [
+      "smooth"
+    ],
+    "573": [
+      "smooth"
+    ],
+    "574": [
+      "smooth"
+    ],
+    "575": [
+      "smooth"
+    ],
+    "576": [
+      "smooth"
+    ],
+    "577": [
+      "smooth"
+    ],
+    "578": [
+      "smooth"
+    ],
+    "579": [
+      "smooth"
+    ],
+    "58": [
+      "harsh"
+    ],
+    "580": [
+      "smooth"
+    ],
+    "581": [
+      "smooth"
+    ],
+    "582": [
+      "smooth"
+    ],
+    "583": [
+      "smooth"
+    ],
+    "584": [
+      "smooth"
+    ],
+    "585": [
+      "smooth"
+    ],
+    "586": [
+      "smooth"
+    ],
+    "587": [
+      "smooth"
+    ],
+    "588": [
+      "smooth"
+    ],
+    "589": [
+      "smooth"
+    ],
+    "59": [
+      "harsh"
+    ],
+    "590": [
+      "smooth"
+    ],
+    "591": [
+      "smooth"
+    ],
+    "592": [
+      "smooth"
+    ],
+    "593": [
+      "smooth"
+    ],
+    "594": [
+      "smooth"
+    ],
+    "595": [
+      "smooth"
+    ],
+    "596": [
+      "smooth"
+    ],
+    "597": [
+      "smooth"
+    ],
+    "598": [
+      "smooth"
+    ],
+    "599": [
+      "smooth"
+    ],
+    "6": [
+      "harsh"
+    ],
+    "60": [
+      "harsh"
+    ],
+    "600": [
+      "smooth"
+    ],
+    "601": [
+      "smooth"
+    ],
+    "602": [
+      "smooth"
+    ],
+    "603": [
+      "smooth"
+    ],
+    "604": [
+      "smooth"
+    ],
+    "605": [
+      "smooth"
+    ],
+    "606": [
+      "smooth"
+    ],
+    "607": [
+      "smooth"
+    ],
+    "608": [
+      "smooth"
+    ],
+    "609": [
+      "smooth"
+    ],
+    "61": [
+      "harsh"
+    ],
+    "610": [
+      "smooth"
+    ],
+    "611": [
+      "smooth"
+    ],
+    "612": [
+      "smooth"
+    ],
+    "613": [
+      "smooth"
+    ],
+    "614": [
+      "smooth"
+    ],
+    "615": [
+      "smooth"
+    ],
+    "616": [
+      "smooth"
+    ],
+    "617": [
+      "smooth"
+    ],
+    "618": [
+      "smooth"
+    ],
+    "619": [
+      "smooth"
+    ],
+    "62": [
+      "harsh"
+    ],
+    "620": [
+      "smooth"
+    ],
+    "621": [
+      "smooth"
+    ],
+    "622": [
+      "smooth"
+    ],
+    "623": [
+      "smooth"
+    ],
+    "624": [
+      "smooth"
+    ],
+    "625": [
+      "smooth"
+    ],
+    "626": [
+      "smooth"
+    ],
+    "627": [
+      "smooth"
+    ],
+    "628": [
+      "smooth"
+    ],
+    "629": [
+      "smooth"
+    ],
+    "63": [
+      "harsh"
+    ],
+    "630": [
+      "smooth"
+    ],
+    "631": [
+      "smooth"
+    ],
+    "632": [
+      "smooth"
+    ],
+    "633": [
+      "smooth"
+    ],
+    "634": [
+      "smooth"
+    ],
+    "635": [
+      "smooth"
+    ],
+    "636": [
+      "smooth"
+    ],
+    "637": [
+      "smooth"
+    ],
+    "638": [
+      "smooth"
+    ],
+    "639": [
+      "smooth"
+    ],
+    "64": [
+      "harsh"
+    ],
+    "640": [
+      "smooth"
+    ],
+    "641": [
+      "smooth"
+    ],
+    "642": [
+      "smooth"
+    ],
+    "643": [
+      "smooth"
+    ],
+    "644": [
+      "smooth"
+    ],
+    "645": [
+      "smooth"
+    ],
+    "646": [
+      "smooth"
+    ],
+    "647": [
+      "smooth"
+    ],
+    "648": [
+      "smooth"
+    ],
+    "649": [
+      "smooth"
+    ],
+    "65": [
+      "harsh"
+    ],
+    "650": [
+      "smooth"
+    ],
+    "651": [
+      "smooth"
+    ],
+    "652": [
+      "smooth"
+    ],
+    "653": [
+      "smooth"
+    ],
+    "654": [
+      "smooth"
+    ],
+    "655": [
+      "smooth"
+    ],
+    "656": [
+      "smooth"
+    ],
+    "657": [
+      "smooth"
+    ],
+    "658": [
+      "smooth"
+    ],
+    "659": [
+      "smooth"
+    ],
+    "66": [
+      "harsh"
+    ],
+    "660": [
+      "smooth"
+    ],
+    "661": [
+      "smooth"
+    ],
+    "662": [
+      "smooth"
+    ],
+    "663": [
+      "smooth"
+    ],
+    "664": [
+      "smooth"
+    ],
+    "665": [
+      "smooth"
+    ],
+    "666": [
+      "smooth"
+    ],
+    "667": [
+      "smooth"
+    ],
+    "668": [
+      "smooth"
+    ],
+    "669": [
+      "smooth"
+    ],
+    "67": [
+      "harsh"
+    ],
+    "670": [
+      "smooth"
+    ],
+    "671": [
+      "smooth"
+    ],
+    "672": [
+      "smooth"
+    ],
+    "673": [
+      "smooth"
+    ],
+    "674": [
+      "smooth"
+    ],
+    "675": [
+      "smooth"
+    ],
+    "676": [
+      "smooth"
+    ],
+    "677": [
+      "smooth"
+    ],
+    "678": [
+      "smooth"
+    ],
+    "679": [
+      "smooth"
+    ],
+    "68": [
+      "harsh"
+    ],
+    "680": [
+      "smooth"
+    ],
+    "681": [
+      "smooth"
+    ],
+    "682": [
+      "smooth"
+    ],
+    "683": [
+      "smooth"
+    ],
+    "684": [
+      "smooth"
+    ],
+    "685": [
+      "smooth"
+    ],
+    "686": [
+      "smooth"
+    ],
+    "687": [
+      "smooth"
+    ],
+    "688": [
+      "smooth"
+    ],
+    "689": [
+      "smooth"
+    ],
+    "69": [
+      "harsh"
+    ],
+    "690": [
+      "smooth"
+    ],
+    "691": [
+      "smooth"
+    ],
+    "692": [
+      "smooth"
+    ],
+    "693": [
+      "smooth"
+    ],
+    "694": [
+      "smooth"
+    ],
+    "695": [
+      "smooth"
+    ],
+    "696": [
+      "smooth"
+    ],
+    "697": [
+      "smooth"
+    ],
+    "698": [
+      "smooth"
+    ],
+    "699": [
+      "smooth"
+    ],
+    "7": [
+      "harsh"
+    ],
+    "70": [
+      "harsh"
+    ],
+    "700": [
+      "smooth"
+    ],
+    "701": [
+      "smooth"
+    ],
+    "702": [
+      "smooth"
+    ],
+    "703": [
+      "smooth"
+    ],
+    "704": [
+      "smooth"
+    ],
+    "705": [
+      "smooth"
+    ],
+    "706": [
+      "smooth"
+    ],
+    "707": [
+      "smooth"
+    ],
+    "708": [
+      "smooth"
+    ],
+    "709": [
+      "smooth"
+    ],
+    "71": [
+      "harsh"
+    ],
+    "710": [
+      "smooth"
+    ],
+    "711": [
+      "smooth"
+    ],
+    "712": [
+      "smooth"
+    ],
+    "713": [
+      "smooth"
+    ],
+    "714": [
+      "smooth"
+    ],
+    "715": [
+      "smooth"
+    ],
+    "716": [
+      "smooth"
+    ],
+    "717": [
+      "smooth"
+    ],
+    "718": [
+      "smooth"
+    ],
+    "719": [
+      "smooth"
+    ],
+    "72": [
+      "harsh"
+    ],
+    "720": [
+      "smooth"
+    ],
+    "721": [
+      "smooth"
+    ],
+    "722": [
+      "smooth"
+    ],
+    "723": [
+      "smooth"
+    ],
+    "724": [
+      "smooth"
+    ],
+    "725": [
+      "smooth"
+    ],
+    "726": [
+      "smooth"
+    ],
+    "727": [
+      "smooth"
+    ],
+    "728": [
+      "smooth"
+    ],
+    "729": [
+      "smooth"
+    ],
+    "73": [
+      "harsh"
+    ],
+    "730": [
+      "smooth"
+    ],
+    "731": [
+      "smooth"
+    ],
+    "732": [
+      "smooth"
+    ],
+    "733": [
+      "smooth"
+    ],
+    "734": [
+      "smooth"
+    ],
+    "735": [
+      "smooth"
+    ],
+    "736": [
+      "smooth"
+    ],
+    "737": [
+      "smooth"
+    ],
+    "738": [
+      "smooth"
+    ],
+    "739": [
+      "smooth"
+    ],
+    "74": [
+      "harsh"
+    ],
+    "740": [
+      "smooth"
+    ],
+    "741": [
+      "smooth"
+    ],
+    "742": [
+      "smooth"
+    ],
+    "743": [
+      "smooth"
+    ],
+    "744": [
+      "smooth"
+    ],
+    "745": [
+      "smooth"
+    ],
+    "746": [
+      "smooth"
+    ],
+    "747": [
+      "smooth"
+    ],
+    "748": [
+      "smooth"
+    ],
+    "749": [
+      "smooth"
+    ],
+    "75": [
+      "harsh"
+    ],
+    "750": [
+      "smooth"
+    ],
+    "751": [
+      "smooth"
+    ],
+    "752": [
+      "smooth"
+    ],
+    "753": [
+      "smooth"
+    ],
+    "754": [
+      "smooth"
+    ],
+    "755": [
+      "smooth"
+    ],
+    "756": [
+      "smooth"
+    ],
+    "757": [
+      "smooth"
+    ],
+    "758": [
+      "smooth"
+    ],
+    "759": [
+      "smooth"
+    ],
+    "76": [
+      "harsh"
+    ],
+    "760": [
+      "smooth"
+    ],
+    "761": [
+      "smooth"
+    ],
+    "762": [
+      "smooth"
+    ],
+    "763": [
+      "smooth"
+    ],
+    "764": [
+      "smooth"
+    ],
+    "765": [
+      "smooth"
+    ],
+    "766": [
+      "smooth"
+    ],
+    "767": [
+      "smooth"
+    ],
+    "768": [
+      "smooth"
+    ],
+    "769": [
+      "smooth"
+    ],
+    "77": [
+      "harsh"
+    ],
+    "770": [
+      "smooth"
+    ],
+    "771": [
+      "smooth"
+    ],
+    "772": [
+      "smooth"
+    ],
+    "773": [
+      "smooth"
+    ],
+    "774": [
+      "smooth"
+    ],
+    "775": [
+      "smooth"
+    ],
+    "776": [
+      "smooth"
+    ],
+    "777": [
+      "smooth"
+    ],
+    "778": [
+      "smooth"
+    ],
+    "779": [
+      "smooth"
+    ],
+    "78": [
+      "harsh"
+    ],
+    "780": [
+      "smooth"
+    ],
+    "781": [
+      "smooth"
+    ],
+    "782": [
+      "smooth"
+    ],
+    "783": [
+      "smooth"
+    ],
+    "784": [
+      "smooth"
+    ],
+    "785": [
+      "smooth"
+    ],
+    "786": [
+      "smooth"
+    ],
+    "787": [
+      "smooth"
+    ],
+    "788": [
+      "smooth"
+    ],
+    "789": [
+      "smooth"
+    ],
+    "79": [
+      "harsh"
+    ],
+    "790": [
+      "smooth"
+    ],
+    "791": [
+      "smooth"
+    ],
+    "792": [
+      "smooth"
+    ],
+    "793": [
+      "smooth"
+    ],
+    "794": [
+      "smooth"
+    ],
+    "795": [
+      "smooth"
+    ],
+    "796": [
+      "smooth"
+    ],
+    "797": [
+      "smooth"
+    ],
+    "798": [
+      "smooth"
+    ],
+    "799": [
+      "smooth"
+    ],
+    "8": [
+      "harsh"
+    ],
+    "80": [
+      "harsh"
+    ],
+    "800": [
+      "smooth"
+    ],
+    "801": [
+      "smooth"
+    ],
+    "802": [
+      "smooth"
+    ],
+    "803": [
+      "smooth"
+    ],
+    "804": [
+      "smooth"
+    ],
+    "805": [
+      "smooth"
+    ],
+    "806": [
+      "smooth"
+    ],
+    "807": [
+      "smooth"
+    ],
+    "808": [
+      "smooth"
+    ],
+    "809": [
+      "smooth"
+    ],
+    "81": [
+      "harsh"
+    ],
+    "810": [
+      "smooth"
+    ],
+    "811": [
+      "smooth"
+    ],
+    "812": [
+      "smooth"
+    ],
+    "813": [
+      "smooth"
+    ],
+    "814": [
+      "smooth"
+    ],
+    "815": [
+      "smooth"
+    ],
+    "816": [
+      "smooth"
+    ],
+    "817": [
+      "smooth"
+    ],
+    "818": [
+      "smooth"
+    ],
+    "819": [
+      "smooth"
+    ],
+    "82": [
+      "harsh"
+    ],
+    "820": [
+      "smooth"
+    ],
+    "821": [
+      "smooth"
+    ],
+    "822": [
+      "smooth"
+    ],
+    "823": [
+      "smooth"
+    ],
+    "824": [
+      "smooth"
+    ],
+    "825": [
+      "smooth"
+    ],
+    "826": [
+      "smooth"
+    ],
+    "827": [
+      "smooth"
+    ],
+    "828": [
+      "smooth"
+    ],
+    "829": [
+      "smooth"
+    ],
+    "83": [
+      "harsh"
+    ],
+    "830": [
+      "smooth"
+    ],
+    "831": [
+      "smooth"
+    ],
+    "832": [
+      "smooth"
+    ],
+    "833": [
+      "smooth"
+    ],
+    "834": [
+      "smooth"
+    ],
+    "835": [
+      "smooth"
+    ],
+    "836": [
+      "smooth"
+    ],
+    "837": [
+      "smooth"
+    ],
+    "838": [
+      "smooth"
+    ],
+    "839": [
+      "smooth"
+    ],
+    "84": [
+      "harsh"
+    ],
+    "840": [
+      "smooth"
+    ],
+    "841": [
+      "smooth"
+    ],
+    "842": [
+      "smooth"
+    ],
+    "843": [
+      "smooth"
+    ],
+    "844": [
+      "smooth"
+    ],
+    "845": [
+      "smooth"
+    ],
+    "846": [
+      "smooth"
+    ],
+    "847": [
+      "smooth"
+    ],
+    "848": [
+      "smooth"
+    ],
+    "849": [
+      "smooth"
+    ],
+    "85": [
+      "harsh"
+    ],
+    "850": [
+      "smooth"
+    ],
+    "851": [
+      "smooth"
+    ],
+    "852": [
+      "smooth"
+    ],
+    "853": [
+      "smooth"
+    ],
+    "854": [
+      "smooth"
+    ],
+    "855": [
+      "smooth"
+    ],
+    "856": [
+      "smooth"
+    ],
+    "857": [
+      "smooth"
+    ],
+    "858": [
+      "smooth"
+    ],
+    "859": [
+      "smooth"
+    ],
+    "86": [
+      "harsh"
+    ],
+    "860": [
+      "smooth"
+    ],
+    "861": [
+      "smooth"
+    ],
+    "862": [
+      "smooth"
+    ],
+    "863": [
+      "smooth"
+    ],
+    "864": [
+      "smooth"
+    ],
+    "865": [
+      "smooth"
+    ],
+    "866": [
+      "smooth"
+    ],
+    "867": [
+      "smooth"
+    ],
+    "868": [
+      "smooth"
+    ],
+    "869": [
+      "smooth"
+    ],
+    "87": [
+      "harsh"
+    ],
+    "870": [
+      "smooth"
+    ],
+    "871": [
+      "smooth"
+    ],
+    "872": [
+      "smooth"
+    ],
+    "873": [
+      "smooth"
+    ],
+    "874": [
+      "smooth"
+    ],
+    "875": [
+      "smooth"
+    ],
+    "876": [
+      "smooth"
+    ],
+    "877": [
+      "smooth"
+    ],
+    "878": [
+      "smooth"
+    ],
+    "879": [
+      "smooth"
+    ],
+    "88": [
+      "harsh"
+    ],
+    "880": [
+      "smooth"
+    ],
+    "881": [
+      "smooth"
+    ],
+    "882": [
+      "smooth"
+    ],
+    "883": [
+      "smooth"
+    ],
+    "884": [
+      "smooth"
+    ],
+    "885": [
+      "smooth"
+    ],
+    "886": [
+      "smooth"
+    ],
+    "887": [
+      "smooth"
+    ],
+    "888": [
+      "finger_regular"
+    ],
+    "889": [
+      "finger_regular"
+    ],
+    "89": [
+      "harsh"
+    ],
+    "890": [
+      "finger_regular"
+    ],
+    "891": [
+      "finger_regular"
+    ],
+    "892": [
+      "finger_regular"
+    ],
+    "893": [
+      "finger_regular"
+    ],
+    "894": [
+      "finger_regular"
+    ],
+    "895": [
+      "finger_regular"
+    ],
+    "896": [
+      "finger_regular"
+    ],
+    "897": [
+      "finger_regular"
+    ],
+    "898": [
+      "finger_regular"
+    ],
+    "899": [
+      "finger_regular"
+    ],
+    "9": [
+      "harsh"
+    ],
+    "90": [
+      "harsh"
+    ],
+    "900": [
+      "finger_regular"
+    ],
+    "901": [
+      "finger_regular"
+    ],
+    "902": [
+      "finger_regular"
+    ],
+    "903": [
+      "finger_regular"
+    ],
+    "904": [
+      "finger_regular"
+    ],
+    "905": [
+      "finger_regular"
+    ],
+    "906": [
+      "finger_regular"
+    ],
+    "907": [
+      "finger_regular"
+    ],
+    "908": [
+      "finger_regular"
+    ],
+    "909": [
+      "finger_regular"
+    ],
+    "91": [
+      "harsh"
+    ],
+    "910": [
+      "finger_regular"
+    ],
+    "911": [
+      "finger_regular"
+    ],
+    "912": [
+      "finger_regular"
+    ],
+    "913": [
+      "finger_regular"
+    ],
+    "914": [
+      "finger_regular"
+    ],
+    "915": [
+      "finger_regular"
+    ],
+    "916": [
+      "finger_regular"
+    ],
+    "917": [
+      "finger_regular"
+    ],
+    "918": [
+      "finger_regular"
+    ],
+    "919": [
+      "finger_regular"
+    ],
+    "92": [
+      "harsh"
+    ],
+    "920": [
+      "finger_regular"
+    ],
+    "921": [
+      "finger_regular"
+    ],
+    "922": [
+      "finger_regular"
+    ],
+    "923": [
+      "finger_regular"
+    ],
+    "924": [
+      "finger_regular"
+    ],
+    "925": [
+      "finger_regular"
+    ],
+    "926": [
+      "finger_regular"
+    ],
+    "927": [
+      "finger_regular"
+    ],
+    "928": [
+      "finger_regular"
+    ],
+    "929": [
+      "finger_regular"
+    ],
+    "93": [
+      "harsh"
+    ],
+    "930": [
+      "finger_regular"
+    ],
+    "931": [
+      "finger_regular"
+    ],
+    "932": [
+      "finger_regular"
+    ],
+    "933": [
+      "finger_regular"
+    ],
+    "934": [
+      "finger_regular"
+    ],
+    "935": [
+      "finger_regular"
+    ],
+    "936": [
+      "finger_regular"
+    ],
+    "937": [
+      "finger_regular"
+    ],
+    "938": [
+      "finger_regular"
+    ],
+    "939": [
+      "finger_regular"
+    ],
+    "94": [
+      "harsh"
+    ],
+    "940": [
+      "finger_regular"
+    ],
+    "941": [
+      "finger_regular"
+    ],
+    "942": [
+      "finger_regular"
+    ],
+    "943": [
+      "finger_regular"
+    ],
+    "944": [
+      "finger_regular"
+    ],
+    "945": [
+      "finger_regular"
+    ],
+    "946": [
+      "finger_regular"
+    ],
+    "947": [
+      "finger_regular"
+    ],
+    "948": [
+      "finger_regular"
+    ],
+    "949": [
+      "finger_regular"
+    ],
+    "95": [
+      "harsh"
+    ],
+    "950": [
+      "finger_regular"
+    ],
+    "951": [
+      "finger_regular"
+    ],
+    "952": [
+      "finger_regular"
+    ],
+    "953": [
+      "finger_regular"
+    ],
+    "954": [
+      "finger_regular"
+    ],
+    "955": [
+      "finger_regular"
+    ],
+    "956": [
+      "finger_regular"
+    ],
+    "957": [
+      "finger_regular"
+    ],
+    "958": [
+      "finger_regular"
+    ],
+    "959": [
+      "finger_regular"
+    ],
+    "96": [
+      "harsh"
+    ],
+    "960": [
+      "finger_regular"
+    ],
+    "961": [
+      "finger_regular"
+    ],
+    "962": [
+      "finger_regular"
+    ],
+    "963": [
+      "finger_regular"
+    ],
+    "964": [
+      "finger_regular"
+    ],
+    "965": [
+      "finger_regular"
+    ],
+    "966": [
+      "finger_regular"
+    ],
+    "967": [
+      "finger_regular"
+    ],
+    "968": [
+      "finger_regular"
+    ],
+    "969": [
+      "finger_regular"
+    ],
+    "97": [
+      "harsh"
+    ],
+    "970": [
+      "finger_regular"
+    ],
+    "971": [
+      "finger_regular"
+    ],
+    "972": [
+      "finger_regular"
+    ],
+    "973": [
+      "finger_regular"
+    ],
+    "974": [
+      "finger_regular"
+    ],
+    "975": [
+      "finger_regular"
+    ],
+    "976": [
+      "finger_regular"
+    ],
+    "977": [
+      "finger_regular"
+    ],
+    "978": [
+      "finger_regular"
+    ],
+    "979": [
+      "finger_regular"
+    ],
+    "98": [
+      "harsh"
+    ],
+    "980": [
+      "finger_regular"
+    ],
+    "981": [
+      "finger_regular"
+    ],
+    "982": [
+      "finger_regular"
+    ],
+    "983": [
+      "finger_regular"
+    ],
+    "984": [
+      "finger_regular"
+    ],
+    "985": [
+      "finger_regular"
+    ],
+    "986": [
+      "finger_regular"
+    ],
+    "987": [
+      "finger_regular"
+    ],
+    "988": [
+      "finger_regular"
+    ],
+    "989": [
+      "finger_regular"
+    ],
+    "99": [
+      "harsh"
+    ],
+    "990": [
+      "finger_regular"
+    ],
+    "991": [
+      "finger_regular"
+    ],
+    "992": [
+      "finger_regular"
+    ],
+    "993": [
+      "finger_regular"
+    ],
+    "994": [
+      "finger_regular"
+    ],
+    "995": [
+      "finger_regular"
+    ],
+    "996": [
+      "finger_regular"
+    ],
+    "997": [
+      "finger_regular"
+    ],
+    "998": [
+      "finger_regular"
+    ],
+    "999": [
+      "finger_regular"
+    ]
+  }
+}
