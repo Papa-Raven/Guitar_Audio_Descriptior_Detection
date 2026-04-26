@@ -45,26 +45,27 @@ COMPLEXITÉ - éléments qui semblent faire en sorte qu’un jeu peut être per�
 - Détection des accord / nom exact de l’accord - (l’analyse de cet élément n’est pas fonctionnelle en ce moment)
 
 
-LIBRAIRIE :
+PRÉREQUIS :
 
+Logiciel - Downloader et installer
+1) Max 9 ou Max For Live -> https://cycling74.com/downloads 
+
+Librairie - Downloader et installer
+
+2) FluidCorpusManipulation par FloCoMa dans le package manager de Max ou -> https://www.flucoma.org/download/
+3) PnP.Maxtools par Austin Franklin dans le package manager de Max ou -> https://austinfranklinmusic.com/pnp-maxtools-library/
+4) Data Knot par Rodrigo Constanzo dans le package manager de Max ou -> https://rodrigoconstanzo.com/data-knot/
+
+
+INSTALLATION :
+
+Downloader le dernier release : 
 
 
 NOTE:
 
-This hifheaibjkbegydalehdnalkcvailehdauelvlauglaeda iot and use it:
-
-1) download FluCoMa from Max's package manager
-
-2) download Pnp from Max's package manager
-
-3) download [sigmund~] from [Max's package manager](https://github.com/v7b1/sigmund_64bit-version)
-
-4) place this repo within the "MyExternals" folder inside MaxCpp
 
 REFERENCE:
-
-This project uses the c fft library KISS_FFT, MaxCpp (my update on Graham Wakefield's original), the Chromogram/Chord detector algorithms defined by Adam Stark, as well as the Max 7 SDK (by Cycling '74) -- all the credit for these open-source files should be give to their authors
-
 
 
 THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
